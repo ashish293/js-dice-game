@@ -1,8 +1,9 @@
 # A dice game.
+
 <style>
   img{
-  height:"300px"
-  margin-right: 2rem
+  height:300px;
+  margin: 0.5rem;
   }
   </style>
 
